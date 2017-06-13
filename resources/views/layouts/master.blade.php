@@ -24,6 +24,8 @@
 </body>
 </html>
 
-<script src="/js/bootstrap.min.js"></script>
 <script src="/js/jquery-2.2.3.min.js"></script>
+<script src="/js/tether.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
 <script src="/js/bootstrap_4.min.js"></script>
+<script src="/js/jquery.min.js"></script>
