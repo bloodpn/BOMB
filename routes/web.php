@@ -11,6 +11,7 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/haha', function () {
     return view('welcome');
 });
+Route::get('/', 'SpeedcamController@index');
